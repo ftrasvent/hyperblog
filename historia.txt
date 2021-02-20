@@ -1,3 +1,7 @@
+Esta es la historia de Fernando
+
 Hola soy Fernando Trasvent
 y estoy en el curso de Git y Gitbub con Freddy Vega
 Tengo 28 años
+
+Es muy alto.
