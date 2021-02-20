@@ -1,2 +1,3 @@
 Hola soy Fernando Trasvent
 y estoy en el curso de Git y Gitbub con Freddy Vega
+Tengo 28 años
