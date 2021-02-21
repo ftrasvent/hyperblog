@@ -2,3 +2,5 @@ Hola soy Fernando Trasvent
 y estoy en el curso de Git y Gitbub con Freddy Vega
 
 Mañana nos enfocaremos en su vida laboral
+
+Estamos haciendo pruebas con Anita de Platzi (Si la que trabaja en Rappi y Glovo)
